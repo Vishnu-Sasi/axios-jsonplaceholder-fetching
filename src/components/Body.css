@@ -1,0 +1,29 @@
+.wrapper{
+    margin-top: 50px;
+}
+input{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 540px;
+}
+button{
+    justify-content: center;
+    align-items: center;
+   background-color: skyblue;
+   width: 100px;
+   height: 40px;
+   border-radius: 20px;
+}
+.list{
+    width: 250px;
+    height: 35px;
+    border: 1px solid black;
+    background-color: skyblue;
+    border-radius: 10px;
+    list-style: none;
+    text-align: center;
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 15px;
+}

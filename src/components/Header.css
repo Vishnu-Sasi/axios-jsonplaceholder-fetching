@@ -1,0 +1,9 @@
+.header{
+   width: 400px; 
+   height: 40px;
+   border: 1px solid skyblue;
+   background-color: skyblue;
+   border-radius: 20px;
+   text-align: center;
+   margin: auto;
+}
